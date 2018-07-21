@@ -1,7 +1,7 @@
 name: DevTools
 main: DevTools\DevTools
 version: 1.13.0
-api: [3.0.0]
+api: [4.0.0]
 load: STARTUP
 author: PocketMine Team
 description: Helps develop and distribute PocketMine-MP plugins
@@ -47,4 +47,3 @@ permissions:
      devtools.command.genplugin:
       default: op
       description: "Allows the user to generate skeleton files for a plugin"
-
